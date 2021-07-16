@@ -1,4 +1,4 @@
 # hello-world
-first test
+
 Hello,
-I'm currently trying 
+I'm currently trying  :)
